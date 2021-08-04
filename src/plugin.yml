@@ -1,0 +1,16 @@
+main: net.pathfinding.me.Main
+version: 1.0
+author: vm18
+name: PathFinding
+description: Implementation of A* Algorithm in Minecraft
+api-version: 1.16
+
+commands:
+  pos1:
+    usage:
+  pos2:
+    usage:
+  calcpath:
+    useage:
+  setmat:
+    usage:
